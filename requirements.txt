@@ -12,13 +12,6 @@ TA-Lib>=0.4.25
 schedule>=1.2.0
 pytz>=2023.3
 
-# Async and threading
-asyncio
-concurrent.futures
-
-# Data processing
-functools32; python_version < '3.2'
-
 # Optional: For enhanced features
 python-dotenv>=1.0.0
 urllib3>=1.26.0
